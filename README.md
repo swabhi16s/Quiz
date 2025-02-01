@@ -3,11 +3,37 @@
 Welcome to the **Quiz Master** app, the ultimate platform for testing your knowledge, earning badges, and having fun while learning! This interactive quiz application features dynamic UI animations, a responsive design, and a powerful backend API to fetch and manage quiz data.
 
 ## 🚀 Project Structure
-/Quiz ├── /client # Frontend (React, Tailwind CSS) ├── /server.js # Backend (Node.js API for fetching quiz data) ├── README.md # Project documentation └── .gitignore # Gitignore to exclude unnecessary files
+/Quiz  
+├── /client                # Frontend (React + Tailwind CSS)  
+│   ├── /node_modules       
+│   ├── /public              
+│   ├── /src                
+│   │   ├── /components   
+│   │   ├── /pages          
+│   │   ├── /assets       
+│   │   ├── main.jsx        
+│   │   ├── App.jsx        
+│   │   └── ...  
+│   ├── index.html         
+│   ├── package.json      
+│   ├── package-lock.json  
+│   ├── tailwind.config.js  
+│   ├── postcss.config.js    
+│   ├── eslint.config.js    
+│   ├── vite.config.js     
+│   ├── README.md          
+│  
+├── /server                # Backend (Node.js API)  
+│   ├── /node_modules       
+│   ├── server.js          
+│   ├── package.json        
+│   ├── package-lock.json  
+│  
+├── README.md              
+├── .gitignore             
 
-markdown
-Copy
-Edit
+
+
 
 ## ✨ Key Features
 

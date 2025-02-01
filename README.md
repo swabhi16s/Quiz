@@ -106,13 +106,16 @@ This project is licensed under the MIT License.
 Here are some screenshots of the app in action:
 
 ![Screenshot (6704)](https://github.com/user-attachments/assets/67c6eba0-0d4d-49c1-b88a-3c64ab2ac505)
-![Screenshot (6706)](https://github.com/user-attachments/assets/286af63e-2b33-4d91-8d97-afd3f914823d)
+![Screenshot (6712)](https://github.com/user-attachments/assets/2ff7a59a-74d4-4399-8eca-26d6e7960e15)
+![file_2025-02-01_17 08 34](https://github.com/user-attachments/assets/60236405-909a-4ee0-9cfd-ad991df3886b)
 ![Screenshot (6707)](https://github.com/user-attachments/assets/e357c3e8-ac25-4caa-9155-812a5a105a2c)
 ![Screenshot (6708)](https://github.com/user-attachments/assets/6cfabe92-dd8f-4b45-85ce-297d63ca6f21)
 ![Screenshot (6709)](https://github.com/user-attachments/assets/24595771-091c-46bf-bc23-0f3518628651)
 ![Screenshot (6711)](https://github.com/user-attachments/assets/5d97786e-bf40-4a80-8e08-f1c0a0d6e794)
 
 
+📽️ Video Demo  
+Watch the app in action: 
 
-```
+[![Quiz Master Demo](https://github.com/user-attachments/assets/YOUR_IMAGE_LINK)](https://github.com/user-attachments/assets/4816c2cf-0ceb-4577-9e86-e6861816b8f2)
 

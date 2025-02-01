@@ -100,7 +100,7 @@ This project is licensed under the MIT License.
 Screenshots
 Here are some screenshots of the app in action:
 
-<div> <img src="screenshot .png" alt="Screenshot 1" width="200" style="margin-right: 10px;" /> <img src="screenshot2.png" alt="Screenshot 2" width="200" style="margin-right: 10px;" /> <img src="screenshot3.png" alt="Screenshot 3" width="200" style="margin-right: 10px;" /> <img src="screenshot4.png" alt="Screenshot 4" width="200" style="margin-right: 10px;" /> </div> <div> <img src="screenshot5.png" alt="Screenshot 5" width="200" style="margin-right: 10px;" /> <img src="screenshot6.png" alt="Screenshot 6" width="200" style="margin-right: 10px;" /> <img src="screenshot7.png" alt="Screenshot 7" width="200" style="margin-right: 10px;" /> <img src="screenshot8.png" alt="Screenshot 8" width="200" style="margin-right: 10px;" /> </div> ```
+<div> <img src="Screenshot (6704).png.png" alt="Screenshot 1" width="200" style="margin-right: 10px;" /> <img src="screenshot2.png" alt="Screenshot 2" width="200" style="margin-right: 10px;" /> <img src="screenshot3.png" alt="Screenshot 3" width="200" style="margin-right: 10px;" /> <img src="screenshot4.png" alt="Screenshot 4" width="200" style="margin-right: 10px;" /> </div> <div> <img src="screenshot5.png" alt="Screenshot 5" width="200" style="margin-right: 10px;" /> <img src="screenshot6.png" alt="Screenshot 6" width="200" style="margin-right: 10px;" /> <img src="screenshot7.png" alt="Screenshot 7" width="200" style="margin-right: 10px;" /> <img src="screenshot8.png" alt="Screenshot 8" width="200" style="margin-right: 10px;" /> </div> ```
 
 
 

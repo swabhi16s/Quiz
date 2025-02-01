@@ -31,8 +31,8 @@ const QuestionCard = ({ question, onAnswer }) => {
                 ${
                   selected === option.description
                     ? option.is_correct
-                      ? "bg-gray-500 text-white border-gray-200"
-                      : "bg-gray-500 text-white border-gray-200"
+                      ? "bg-green-500 text-white border-gray-200"
+                      : "bg-red-500 text-white border-gray-200"
                     : "bg-gray-100 hover:bg-gray-200"
                 } transform hover:scale-110`}
               onClick={() => handleAnswer(option.description)}

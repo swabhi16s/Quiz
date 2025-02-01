@@ -99,9 +99,9 @@ This project is licensed under the MIT License.
 
 Screenshots
 Here are some screenshots of the app in action:
-
+'''bash
 ![Screenshot (6704)](https://github.com/user-attachments/assets/fd8fdb5b-fd27-4257-9b10-9457f3492011)
 
 
 
-'''bash
+
